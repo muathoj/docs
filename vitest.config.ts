@@ -14,3 +14,4 @@ export default {
     globalSetup: './src/tests/vitest.setup.ts',
   },
 }
+SAR=all
